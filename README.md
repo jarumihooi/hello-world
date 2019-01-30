@@ -1,2 +1,6 @@
 # hello-world
-Write a short description
+This is a read-me
+
+John saw a man on the mountain with a telescope.
+
+
