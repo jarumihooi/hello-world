@@ -1,0 +1,7 @@
+Some questions about Github: 
+
+How does one read this? This branch is 1 commit ahead, 12 commits behind jarumihooi:master.
+
+I don't see a -r or --recursive options when I type "git clone ENTER" ; what does this do again? 
+
+And let's see if I figure out how to add a file to the repo. 
